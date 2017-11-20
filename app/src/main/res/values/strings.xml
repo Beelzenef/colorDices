@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorDices</string>
+
+    <string name="txtV_lanzarDados">Lanzando dados</string>
+    <string name="txtV_mngDA">DA</string>
+    <string name="txtV_mngDC">DC</string>
+    <string name="txtV_mngDFX">DFX</string>
+    <string name="txtV_mngDE">DE</string>
+    <string name="txtV_mngDT">DT</string>
+    <string name="btn_Mas">+</string>
+    <string name="btn_Menos">-</string>
+</resources>
